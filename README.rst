@@ -2,11 +2,9 @@ blog_raw
 ########
 
 The stylesheets, javascript, templates, and rst files for briandant.com.  My
-blog is generated using [Nikola](http://nikola.ralsina.com.ar/), and static
-site and blog generator created by [Roberto
-Alsina](https://github.com/ralsina/).  The generated files live at
-briandant.github.io ([repo](https://github.com/briandant/briandant.github.io)),
-and subsequently [briandant.com](briandant.com).
+blog is generated using Nikola_, a static site and blog generator created by
+`Roberto Alsina_` he generated files live at briandant.github.io, and
+subsequently briandant.com.
  
 
 <a rel="license"
@@ -20,3 +18,8 @@ property="cc:attributionName" rel="cc:attributionURL">Brian Dant</a> is
 licensed under a <a rel="license"
 href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US">Creative
 Commons Attribution-ShareAlike 3.0 Unported License</a>.
+
+
+External hyperlinks, like Python_.
+.. _nikola_home: https://github.com/ralsina/
+.. _Roberto Alsina: http://nikola.ralsina.com.ar/
