@@ -20,5 +20,10 @@ href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US">Creative
 Commons Attribution-ShareAlike 3.0 Unported License</a>.
 
 
+<<<<<<< HEAD
 .. _Nikola: https://github.com/ralsina/
+=======
+External hyperlinks, like Python_.
+.. _nikola_home: https://github.com/ralsina/
+>>>>>>> bae4bf5b06c729d4a9a4546cf7457b7a6dad64b5
 .. _Roberto Alsina: http://nikola.ralsina.com.ar/
